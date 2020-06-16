@@ -1,0 +1,11 @@
+*{
+	box-sizing: border-box;
+}
+.flat__inner{
+	display: flex;
+	justify-content: space-around;
+}
+.flat__box img{
+	width: 400px;
+	height: 400px;
+}
